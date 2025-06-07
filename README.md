@@ -69,8 +69,8 @@ This work fuels my passion for understanding the fundamentals of AI and contribu
 
 I’m open to **collaboration, research, and job opportunities** in ML, AI, and software engineering. If you’re working on something exciting or want to chat tech—reach out!
 
-[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/shwetashardul)  
-[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/shweta-v-shardul/)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shwetashardul)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shweta-v-shardul/)
 
 ---
 
