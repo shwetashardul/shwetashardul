@@ -1,43 +1,79 @@
 ### Hi there 👋, I'm Shweta Shardul!
-#### I'm an aspiring Software Developer and seasoned Information Technology Engineer from India, currently expanding my horizons with a Master's in Computer Science at the New Jersey Institute of Technology (NJIT), USA. My journey in tech started with a deep-rooted fascination for Data Structures and Algorithms, a passion that has only grown stronger over the years. Today, I'm venturing into the captivating world of Software Development and Data Science, exploring its potential to solve real-world problems.
 
-📚 Education & Learning:
+#### I’m a Software Engineer and AI Researcher passionate about solving meaningful problems through scalable systems and intelligent learning algorithms.
 
-MS in Computer Science at NJIT, diving deep into Data Structures and Algorithms, Machine Learning, and more, aiming to graduate in May 2025 with a GPA of 3.5.
-BE in Information Technology from Savitribai Phule Pune University, India, where I honed my foundational skills and graduated with a CGPA of 8.21.
+---
 
-💻 Professional Path:
+📘 **About Me**
 
-From Tata Consultancy Services as a Systems Engineer to a Teaching Assistant at NJIT, my career reflects a commitment to innovation, excellence, and education.
-My professional experience spans developing chatbots to significantly reducing response times, enhancing Python automation scripts for efficiency, and contributing to impactful projects like predictive models for healthcare.
+I recently graduated with a Master’s in Computer Science from the **New Jersey Institute of Technology (NJIT)**, USA, and I’m actively seeking full-time **Software Development roles** focused on **Machine Learning, Deep Learning**, and AI-driven technologies.
 
-🔍 Current Explorations:
+---
 
-Deepening my knowledge in Advanced Data Structures and Data Science, I am fascinated by its power to drive insights and innovations. I am also exploring Web Systems Development and learning how to implement Automated Testing and develop Responsive Web Designs. 
+🔬 **Graduate Research Assistant | Deep Learning & Neural Collapse**
 
-🛠 Skills & Expertise:
+I'm currently working at NJIT as a Graduate Research Assistant exploring the intersection of **theoretical machine learning and empirical deep learning**. My research investigates how neural networks learn and generalize, with a special focus on **neural collapse**.
 
-Proficient in Python, Java, C/C++,  SQL, MongoDB, HTML5, CSS3,Responsive Web Designs, FastAPI, OOP, Pytest, CI/CD.
-Worked on Pandas, Numpy, TensorFlow, Keras, Pytorch, ScikitLearn.
-Adept at Software Development Practices: Agile Development, Git Version Control, AWS, Linux, Jira.
-Experienced in Agile Development, Git Version Control, Advanced Data Structures and Algorithms, Complexity Analysis, SOLID Principles, Automated Testing, AAA.
+Key focus areas include:
+- 🧠 Characterizing neural collapse across deep architectures
+- 📊 Studying memorization vs. generalization in overparameterized networks
+- 📏 Designing metrics to quantify training behavior and learning phases
+- ⚡ Improving robustness, efficiency, and reliability in deep learning systems
 
-🌱 I'm Passionate About:
+This work fuels my passion for understanding the fundamentals of AI and contributes toward advancing theoretical and practical applications of deep learning.
 
-Implementing my technical skills to tackle challenges in core computer science and data science domains.
-Continuously learning and contributing to projects that push the boundaries of what's possible.
+---
 
-🌟 Let's Connect!
+🎓 **Education**
 
-Feel free to explore my repositories and reach out on LinkedIn for collaborations or discussions. I'm always excited to connect with fellow enthusiasts and professionals in the field.
-Thank you for stopping by, and I look forward to making a positive impact together!
+- **M.S. in Computer Science**, NJIT  
+  *Graduated May 2025 | GPA 3.7*  
+  Focus: Deep Learning, ML, Data Structures, Algorithms
 
-- 🔭 I’m currently working on an Operating Systems Project of developing a CPU Scheduling algorithm simulator.  
-- 🌱 I’m currently learning Automated Testing, Responsive Web Designs and CI/CD. 
-- 🤔 I’m looking for help with a Software Development Summer Internship 2024. 
-- 😄 Pronouns: She/Her 
-- ⚡ Fun fact: I love freezing moments through my poetry and photography. 
+- **B.E. in Information Technology**, SPPU, India  
+  CGPA: 8.21 / 10
 
+---
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/shwetashardul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/shweta-v-shardul//)  
+💼 **Professional Experience**
 
+- **Systems Engineer @ Tata Consultancy Services (TCS)**  
+  - Built chatbot solutions to enhance customer interaction  
+  - Developed Python automation scripts boosting efficiency by 40%
+
+- **Teaching Assistant @ NJIT**  
+  - Assisted in Data Structures and Data Science courses  
+  - Helped restructure grading and feedback systems to improve participation
+
+---
+
+🛠 **Skills & Technologies**
+
+- **Languages**: Python, Java, C++, SQL, HTML, CSS  
+- **ML/DL Libraries**: PyTorch, TensorFlow, Scikit-learn, Keras, NumPy, Pandas  
+- **Frameworks**: FastAPI, Pytest, Docker, GitHub Actions  
+- **Tools**: Git, Linux, AWS, Jira, Agile, CI/CD  
+- **CS Core**: Data Structures, Algorithms, OOP, SOLID Principles
+
+---
+
+🚀 **Current Focus**
+
+- Advanced research on generalization and memorization in deep learning  
+- Building end-to-end intelligent systems for real-world applications  
+- Exploring theoretical ML frameworks and designing insightful experiments
+
+---
+
+🌟 **Let’s Connect!**
+
+I’m open to **collaboration, research, and job opportunities** in ML, AI, and software engineering. If you’re working on something exciting or want to chat tech—reach out!
+
+[![GitHub](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg)](https://github.com/shwetashardul)  
+[![LinkedIn](https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg)](https://www.linkedin.com/in/shweta-v-shardul/)
+
+---
+
+🔖 **Fun Fact**: Outside code and research, I write poetry and take lots of photos—capturing fleeting moments one frame at a time.
+
+#DeepLearning #MachineLearning #NeuralCollapse #AIResearch #SoftwareEngineering #Generalization #TheoreticalML
