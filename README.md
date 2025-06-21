@@ -35,15 +35,23 @@ This work fuels my passion for understanding the fundamentals of AI and contribu
 
 ---
 
-💼 **Professional Experience**
+## 💼 Professional Experience
 
-- **Systems Engineer @ Tata Consultancy Services (TCS)**  
-  - Built chatbot solutions to enhance customer interaction  
-  - Developed Python automation scripts boosting efficiency by 40%
+### 🏢 Systems Engineer @ Tata Consultancy Services (TCS)
+- Built chatbot solutions to enhance customer interaction  
+- Developed Python automation scripts, boosting process efficiency by **40%**
 
-- **Teaching Assistant @ NJIT**  
-  - Assisted in Data Structures and Data Science courses  
-  - Helped restructure grading and feedback systems to improve participation
+### 🧑‍🏫 Teaching Assistant @ New Jersey Institute of Technology (NJIT)
+- Supported instruction in **Data Structures** and **Data Science** courses  
+- Restructured grading and feedback systems, increasing participation and engagement
+
+### 🌱 Intern @ Expertshub, Bengaluru *(Oct 2020 – Nov 2020)*
+- Engineered an intelligent remote-controlled **sprinkler system** for farmers using **Node-RED**, **MQTT**, **Firebase**, and **MIT App Inventor**
+- Designed an Android app to monitor humidity sensors, reducing irrigation costs by **27% annually**
+
+### 🧠 Intern @ Cognifront, Nashik *(Jun 2020 – Jul 2020)*
+- Developed a **predictive machine learning model** to forecast 10-year **coronary heart disease risk**  
+- Implemented multiple algorithms, achieving **99.87% accuracy** with **Random Forest** for hospital pre-diagnostic use
 
 ---
 
