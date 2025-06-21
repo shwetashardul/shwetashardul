@@ -37,13 +37,14 @@ This work fuels my passion for understanding the fundamentals of AI and contribu
 
 ## 💼 Professional Experience
 
-### 🏢 Systems Engineer @ Tata Consultancy Services (TCS)
+### 🧑‍🏫 Teaching Assistant @ New Jersey Institute of Technology (NJIT), Newark, NJ *(Jan 2024 – May 2024)*
+- Led ML instruction and mentorship for 120+ students in **CS301: Introduction to Data Science**
+- Provided personalized support on model building, hyperparameter tuning, and evaluation (F1, ROC, precision/recall) using **Scikit-learn**, **TensorFlow**, and **Keras**
+- Redesigned grading rubrics and assignments, resulting in a **35% increase in student participation** and an **11% rise in timely project submissions**
+
+### 🏢 System Engineer @ Tata Consultancy Services (TCS), Pune, India *(Jun 2021 – Oct 2022)*
 - Built chatbot solutions to enhance customer interaction  
 - Developed Python automation scripts, boosting process efficiency by **40%**
-
-### 🧑‍🏫 Teaching Assistant @ New Jersey Institute of Technology (NJIT)
-- Supported instruction in **Data Structures** and **Data Science** courses  
-- Restructured grading and feedback systems, increasing participation and engagement
 
 ### 🌱 Intern @ Expertshub, Bengaluru *(Oct 2020 – Nov 2020)*
 - Engineered an intelligent remote-controlled **sprinkler system** for farmers using **Node-RED**, **MQTT**, **Firebase**, and **MIT App Inventor**
