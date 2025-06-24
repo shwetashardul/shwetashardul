@@ -43,8 +43,37 @@ This work fuels my passion for understanding the fundamentals of AI and contribu
 - Redesigned grading rubrics and assignments, resulting in a **35% increase in student participation** and an **11% rise in timely project submissions**
 
 ### 🏢 System Engineer @ Tata Consultancy Services (TCS), Pune, India *(Jun 2021 – Oct 2022)*
-- Built chatbot solutions to enhance customer interaction  
-- Developed Python automation scripts, boosting process efficiency by **40%**
+- Developed and maintained large-scale distributed systems using C++, Python, and AWS, improving system performance by 32% through optimized job scheduling, parallel execution, and effective resource management.
+
+- Enhanced file system throughput by 23%, improved data retrieval by 41%, and reduced PL/SQL query time by 18% via efficient schema design for relational and NoSQL databases (XML/JSON).
+
+- Engineered ML-powered chatbot workflows using Python, C++, and Kore.ai, increasing NLP model accuracy from 46% to 83%, improving entity recognition, and supporting 30+ production bots used by medical professionals and patients.
+
+- Built and scaled ML infrastructure for data ingestion, transformation, and evaluation using MongoDB, Redshift, Jenkins, and AWS, growing analytics capabilities from 70K to over 800K rows while reducing manual reporting effort by 90%.
+
+- Automated ML data pipelines using Python scripting for CSV-to-JSON conversion, intent tagging, and duplicate resolution, reducing redundant training data by 80% and enhancing chatbot performance.
+
+- Designed in-chat data visualizations using Seaborn and Matplotlib, enabling real-time analytics through dynamic sorting, top-K filtering, and graphical summaries embedded in chatbot interfaces.
+
+- Implemented NLP-driven knowledge graph optimization with token-based search and tagging logic, improving response relevancy and search indexing efficiency by 35%.
+
+- Automated chatbot reporting through middleware scheduler integrations, Jenkins pipelines, SharePoint, and email, improving reporting consistency and eliminating manual tasks.
+
+- Led CI/CD deployment of ML-based applications using GitHub and Jenkins, collaborating in Agile teams via Jira, boosting deployment efficiency by 33% and reducing debugging time by 29%.
+
+- Built shapelet-based and deep learning pipelines for fMRI brain time series analysis using data from 500 subjects across 92 ROIs and 1200 timepoints, enabling behavior prediction.
+
+- Extracted Functional Connectivity (FC) matrices from fMRI data and developed regression models with integrated visualization and interpretability tools in a Jupyter-based pipeline.
+
+- Benchmarked model performance across varying shapelet lengths and implemented parallel processing using joblib across 64 cores and 4 nodes to optimize training and evaluation.
+
+- Trained Fully Convolutional Networks (FCNs) and Transformers using 3D temporal sequences shaped as (500, 50, 92), improving downstream behavior prediction performance.
+
+- Worked with a cross-functional team of developers, middleware engineers, and analysts; utilized Agile methodology, Jira for task tracking, and Git for source control.
+
+- Experienced in DevOps workflows, Docker basics, and delivering reliable, fault-tolerant systems at production scale.
+
+- Proficient in Python, C++, JavaScript, PL/SQL, with experience using MongoDB, Redshift, Jenkins, AWS, Kore.ai, Seaborn, Matplotlib, GitHub, Jira, and SharePoint.
 
 ### 🌱 Intern @ Expertshub, Bengaluru *(Oct 2020 – Nov 2020)*
 - Engineered an intelligent remote-controlled **sprinkler system** for farmers using **Node-RED**, **MQTT**, **Firebase**, and **MIT App Inventor**
