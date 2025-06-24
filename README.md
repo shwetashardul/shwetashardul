@@ -61,14 +61,6 @@ This work fuels my passion for understanding the fundamentals of AI and contribu
 
 - Led CI/CD deployment of ML-based applications using GitHub and Jenkins, collaborating in Agile teams via Jira, boosting deployment efficiency by 33% and reducing debugging time by 29%.
 
-- Built shapelet-based and deep learning pipelines for fMRI brain time series analysis using data from 500 subjects across 92 ROIs and 1200 timepoints, enabling behavior prediction.
-
-- Extracted Functional Connectivity (FC) matrices from fMRI data and developed regression models with integrated visualization and interpretability tools in a Jupyter-based pipeline.
-
-- Benchmarked model performance across varying shapelet lengths and implemented parallel processing using joblib across 64 cores and 4 nodes to optimize training and evaluation.
-
-- Trained Fully Convolutional Networks (FCNs) and Transformers using 3D temporal sequences shaped as (500, 50, 92), improving downstream behavior prediction performance.
-
 - Worked with a cross-functional team of developers, middleware engineers, and analysts; utilized Agile methodology, Jira for task tracking, and Git for source control.
 
 - Experienced in DevOps workflows, Docker basics, and delivering reliable, fault-tolerant systems at production scale.
