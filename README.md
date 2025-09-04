@@ -1,14 +1,22 @@
-### Hi there 👋, I'm Shweta Shardul!
+### Hi there 👋, I'm Shweta Shardul!  
 
-#### I’m a Software Engineer and AI Researcher passionate about solving meaningful problems through scalable systems and intelligent learning algorithms.
+#### I’m a Software Engineer and AI Researcher passionate about solving meaningful problems through scalable systems, generative AI, and intelligent learning algorithms.  
+
+---
+
+📘 **About Me**  
+
+I recently graduated with a Master’s in Computer Science from the **New Jersey Institute of Technology (NJIT)**, USA, and I’m actively seeking full-time **Software Development roles** focused on **Machine Learning, Deep Learning, and AI-driven technologies**.  
+
+I’ve been actively experimenting with **RAGs and LLMs**, and I’m in the process of developing **three products** — two in the **health domain** and one in **agriculture**. Through these projects, I’ve been working on:  
+- **Prompt Engineering** — crafting reliable prompts to reduce hallucinations and boost performance.  
+- **Content Generation & Summarization** — turning fragmented information into actionable insights.  
+- **Workflow Automation & Data Extraction** — building AI-powered pipelines that make data usable and scalable.  
 
 ---
 
-📘 **About Me**
+🔥 Always curious, always shipping — whether it’s scaling backend systems, experimenting with neural architectures, or bringing generative AI to life.  
 
-I recently graduated with a Master’s in Computer Science from the **New Jersey Institute of Technology (NJIT)**, USA, and I’m actively seeking full-time **Software Development roles** focused on **Machine Learning, Deep Learning**, and AI-driven technologies.
-
----
 
 🔬 **Graduate Research Assistant | Deep Learning & Neural Collapse**
 
